@@ -306,14 +306,6 @@ Each document follows a consistent format:
 
 ---
 
-## Certifications & Learning
-
-| Certification / Course | Provider | Status |
-|---|---|---|
-| Google IT Support Professional Certificate | Coursera / Google | 🔄 In Progress |
-| CompTIA A+ | CompTIA | 🔄 Studying |
-| Cisco Networking Basics | Cisco NetAcad | ✅ Complete |
-| TryHackMe — Pre-Security Path | TryHackMe | 🔄 In Progress |
 
 ---
 
